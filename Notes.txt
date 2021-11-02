@@ -1,0 +1,21 @@
+Tools and setups needed
+
+NPM
+1] npm init -y       -> initialize package.json. Package.json has all what is needed for the project to run.
+
+Prettier & ESLint
+2] npm install -D prettier
+   VS code settings -> format -> enable "format on save"
+   VS code settings -> prettier config -> "prettier require config"
+   
+
+Git
+3] git init
+   create .gitignore
+
+Parcel
+4] npm install -D parcel@1.12.3   /* There are higher versions available*/
+
+
+
+
